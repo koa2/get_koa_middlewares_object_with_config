@@ -1,6 +1,6 @@
 'use strict'
 
-const debug = require('debug')('koa_middlewares_with_config')
+const debug = require('debug')('get_koa_middlewares_object_with_config')
 
 const call_module_with_config = require('call_module_with_config')
 
